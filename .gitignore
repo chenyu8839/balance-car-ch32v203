@@ -1,0 +1,17 @@
+# MounRiver Studio build output
+obj/
+.mrs/
+
+# Backup files
+*.bak
+
+# IDE settings (optional, keep .cproject and .project for team)
+*.launch
+*.wvproj
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Planning files (local only)
+.planning/
